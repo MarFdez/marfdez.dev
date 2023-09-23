@@ -1,7 +1,7 @@
 @font-face {
     font-family: Kirb;
     local: ("Kirby-classic");
-    src: url(/fonts/kirby-classic.ttf);
+    src: url(./fonts/kirby-classic.ttf);
 }
 
 body {
